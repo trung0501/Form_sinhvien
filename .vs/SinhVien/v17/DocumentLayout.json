@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\source\\repos\\SinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8699B2BB-C51B-4180-8CB6-2A115D4EEE61}|SinhVien\\SinhVien.csproj|c:\\users\\nguye\\source\\repos\\sinhvien\\sinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8699B2BB-C51B-4180-8CB6-2A115D4EEE61}|SinhVien\\SinhVien.csproj|solutionrelative:sinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\SinhVien\\SinhVien\\Program.cs",
+              "RelativeDocumentMoniker": "SinhVien\\Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\SinhVien\\SinhVien\\Program.cs",
+              "RelativeToolTip": "SinhVien\\Program.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAAGoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T12:41:04.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
